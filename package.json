@@ -1,6 +1,6 @@
 {
   "name": "is-gulp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A module to determine if current directory is a gulp project.",
   "main": "index.js",
   "author": "Jeff Andrews",
