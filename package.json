@@ -12,7 +12,7 @@
     "nyc": "^13.1.0"
   },
   "dependencies": {
-    "has-task-runner": "^0.4.1"
+    "has-task-runner": "^0.4.2"
   },
   "scripts": {
     "coverage": "nyc ava",
